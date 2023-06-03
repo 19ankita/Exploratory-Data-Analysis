@@ -22,9 +22,9 @@ monotonic relationships between variables? Are there hints towards functional
 relationships that are monotone but not linear?
 
 3. Describe the variables’ variabilities within and between subregions.
-4. 
-5. How have the values of the variables changed from 2002 to 2022?
-6. 
+
+4. How have the values of the variables changed from 2002 to 2022?
+ 
 You are expected to use appropriate statistical measures and graphical methods for the
 analysis in all parts of the project. 
 
