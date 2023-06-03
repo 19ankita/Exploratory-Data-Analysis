@@ -12,5 +12,19 @@ is stratified by sex. The countries are divided geographically into 5 regions an
 For further details regarding data collection see https://www.census.gov/
 programs-surveys/international-programs/about/idb.html. 
 
-This project is done using appropriate statistical measures and graphical methods for the
-analysis.
+Tasks:
+For tasks 1–3, consider only the year 2022.
+1. Describe the frequency distributions of the variables. Consider also the differences
+between the sexes.
+
+2. Describe the dependence structure of the involved variables. Are there hints towards
+monotonic relationships between variables? Are there hints towards functional
+relationships that are monotone but not linear?
+
+3. Describe the variables’ variabilities within and between subregions.
+4. 
+5. How have the values of the variables changed from 2002 to 2022?
+6. 
+You are expected to use appropriate statistical measures and graphical methods for the
+analysis in all parts of the project. 
+
